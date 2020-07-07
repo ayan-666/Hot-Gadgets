@@ -44,6 +44,9 @@
     border: none;
     box-shadow: 5px 5px 10px grey ;
 }
+.smartphone .card h5{
+    text-align: center;
+}
 .smartphone,.laptop .part h3{
     padding-bottom: 5px;
 }
